@@ -1,0 +1,41 @@
+particle system
+
+make sure everything gets created in the right order
+
+keep certain variables between states constant
+
+
+tiles are 16x16
+
+font
+tilesheets
+tmx maps
+player animation sheets
+bug animation sheets
+
+dustmites
+ants - final level stuff because the're strong
+
+
+
+=========================================================================
+=
+=               PLANS:
+=
+=
+=
+=--------Theme:It's a small world
+=
+=--------Game Name:Small Life
+=
+=--------Atmosphere:orange hue beginning, once inside cave however, blue for cold damp cave, red for intense scenes
+=
+=--------Style:to be determined
+=
+=--------Story:A dude gets shrunk in a cave, and he wants to get back to full size
+=
+=--------Characters: The dude's name is Jim, ants, dustmites
+=
+
+
+for scene 1, player hue changes from black to normal hue to simulate walking out

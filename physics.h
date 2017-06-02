@@ -1,0 +1,2 @@
+void CreatePhysics();
+void UpdatePhysics();
